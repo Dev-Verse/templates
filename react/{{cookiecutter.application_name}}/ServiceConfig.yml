@@ -1,0 +1,11 @@
+type:
+  {{cookiecutter.type}}
+
+title:
+  {{cookiecutter.title}}
+
+description:
+  {{cookiecutter.description}}
+
+relatedSystem:
+  {{cookiecutter.relatedSystem}}
