@@ -1,0 +1,13 @@
+type: {{cookiecutter.entityType}}
+
+subType:
+  BACKEND_SERVICE
+
+title: {{cookiecutter.entityTitle}}
+
+description: {{cookiecutter.entityDescription}}
+
+relatedSystem: {{cookiecutter.entityRelatedSystem}}
+
+jenkins:
+  job: <JENKINS_SERVICE_NAME>
